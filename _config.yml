@@ -1,17 +1,17 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "https://alenschina.github.io"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Photography by 戴廿叁"
+subtitle: "去拍照 / 去爱 / 去对抗生活的遗忘！"
+author: "戴廿叁"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by 戴廿叁"
 footer:
  name: "Hey there, my name is Ram"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
